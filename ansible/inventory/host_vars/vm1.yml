@@ -1,0 +1,3 @@
+ansible_host: web1
+ansible_user: root
+ansible_password: Passw0rd
